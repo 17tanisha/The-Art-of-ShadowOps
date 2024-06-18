@@ -1,0 +1,30 @@
+Game theory is a set of tools used to help analyze situations where an
+individual’s best course of action depends on what others do or are
+expected to do. Game theory allows us to understand how people act in
+situations where they are interconnected.
+Connections between people arise in all sorts of situations. Sometimes
+through cooperation with others we can achieve more than we can on our
+own. Other times conflict arises where an individual benefits at the
+expense of others. And in many situations, there are benefits to
+cooperation but elements of conflict also exist.
+Because game theory can help analyze any environment where a person’s
+best action depends on others’ behaviour, it has proven useful in a wide
+variety of fields.
+In economics, the decisions of firms are affected by their expectations of a
+competitor’s choice of product, price and advertising.
+In political science, a candidate’s policy platform is influenced by the policy
+announcements of their rival.
+In biology, animals must compete for scarce resources, but can be hurt if
+they are too aggressive with the wrong rival.
+In computer science, networked computers compete for bandwidth.
+In sociology, public displays of non-conformist attitudes are influenced by
+others’ behaviour, which is shaped by social culture.
+Game theory is useful whenever there is strategic interaction, whenever
+how well you do depends on the actions of others as well as your own
+choices. In these cases, people’s actions are influenced by their
+expectations of others’ actions.
+Game theory is the study of strategic interaction. Strategic interaction is
+also the key element of most board games, which is where it gets its name.
+Your decision affects the other player’s actions and vice versa. Much of the
+jargon of game theory is borrowed directly from games. The decision
+makers are called players.
